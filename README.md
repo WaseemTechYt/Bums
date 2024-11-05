@@ -1,8 +1,8 @@
 # Bums
 
-BOT LINK: [Link Bot](https://t.me/bums/app?startapp=ref_daYEvB6f)
+BOT LINK: [Link Bot](https://t.me/blum/app?startapp=ref_5212kYyBFI)
 
-TELEGRAM GROUP LINK: [Link Channel Telegram](https://t.me/UxScript)
+TELEGRAM GROUP LINK: [Link Channel Telegram](https://t.me/Airdrophack1239)
 
 ## Features:
 | Feature                        | Supported |
